@@ -3,6 +3,8 @@
     <img src=https://png.pngtree.com/thumb_back/fw800/background/20231105/pngtree-mesmerizing-gradient-ethereal-blend-of-neon-mist-ink-water-and-magic-image_13767275.png>
     <h1> Welcome To My ReadMe </h1>
     <h2> I am currently taking a coding class From @DaniyalSKKR</h2>
+    <h3>I know many coding languages including: CSS, HTML, Python and I am curently learning JavaScript</h3>
+    <h4>You can talk to me at: 30853987a.k@gmail.com</h4>
   </body>
 </html>
 <!--
