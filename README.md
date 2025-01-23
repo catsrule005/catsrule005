@@ -1,7 +1,7 @@
 <html>
   <body>
     <img src=https://png.pngtree.com/thumb_back/fw800/background/20231105/pngtree-mesmerizing-gradient-ethereal-blend-of-neon-mist-ink-water-and-magic-image_13767275.png>
-    <h1> Welcome To My ReadMe </h1>
+    <h1> Welcome To My ReadMe©️ </h1>
     <hr>
     <h2> I am currently taking a coding class From @DaniyalSKKR</h2>
     <hr>
@@ -10,6 +10,7 @@
     <h3>Some HTML Projects I have made are: https://codepen.io/Khurshid-Noohi-Shaik/</h3>
     <hr>
     <h4>You can talk to me at: 30853987a.k@gmail.com</h4>
+    <h5>NO COPYING ALLOWED😊</h5>
   </body>
 </html>
 <!--
